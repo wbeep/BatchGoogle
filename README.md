@@ -8,6 +8,7 @@ Example:
 List 1: France, America, Germany
 List 2: Agricultural Density, Population
 Output:
+
 https://www.google.com/search?q=France+Agricultural+Density
 
 https://www.google.com/search?q=France+Population
