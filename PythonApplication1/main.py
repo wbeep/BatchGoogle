@@ -75,6 +75,7 @@ while 10==10:
     list1[LISTiteration] = x
     LISTiteration = LISTiteration +1
 LISTiteration=0
+print("Enter Each Item for List2 then Hit Enter. To Stop, type stop")
 while 10==10:                          #These two while loops are the logic to entering words into each list
     y=input()
     if y=="stop":
