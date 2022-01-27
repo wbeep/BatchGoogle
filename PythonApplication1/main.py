@@ -21,8 +21,8 @@ def Combine():
             if list1c>=listsize1:
                 break
             list2c=list2c+1
-            print ("https://www.google.com/search?q="+Output1_2.replace(" ","+").replace("/","%2F").replace('"',"%22"
-    .replace("<","%3C").replace(">","%3E").replace("#","%23").replace("&","%26").replace("%","%25").replace("|","%7C").replace("?","%3F")))
+            print ("https://www.google.com/search?q="+Output1_2.replace(" ","+").replace("/","%2F").replace('"',"%22")
+    .replace("<","%3C").replace(">","%3E").replace("#","%23").replace("&","%26").replace("%","%25").replace("|","%7C").replace("?","%3F"))
             
             if list2c==listsize2:
                 list2c=0
@@ -65,3 +65,6 @@ while 10==10:
     list2[LISTiteration] = y
     LISTiteration= LISTiteration + 1
 Combine()
+    
+
+
