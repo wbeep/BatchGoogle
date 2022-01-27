@@ -14,6 +14,12 @@ https://www.google.com/search?q=America+Agricultural+Density
 https://www.google.com/search?q=America+Population
 https://www.google.com/search?q=Germany+Agricultural+Density
 https://www.google.com/search?q=Germany+Population
+
 So it outputs all the combinations of each combination as stated before.
+
+This is not the only use case, just the one I could come up with. It is very useful for batch Google search operations, but not small operations
+since you might as well type what you need in Google. But in the case of hundreds of words that need matching, this will help you work efficiently.
+
 I plan to turn this into a webpage that can also scrape the top search result for answers if Google doesn't present it right away.
-This conversion will take a while since I barely know web development but I will learn quite a few important things from it.
+This conversion will take a while (months) since I barely know web development but I will learn quite a few important things from it. Maybe I can also put the page
+online and see if I can get it to show up on Google with SEO to target people's needs. I would end up adding advertisements for revenue but it's a good start.
