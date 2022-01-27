@@ -9,10 +9,15 @@ List 1: France, America, Germany
 List 2: Agricultural Density, Population
 Output:
 https://www.google.com/search?q=France+Agricultural+Density
+
 https://www.google.com/search?q=France+Population
+
 https://www.google.com/search?q=America+Agricultural+Density
+
 https://www.google.com/search?q=America+Population
+
 https://www.google.com/search?q=Germany+Agricultural+Density
+
 https://www.google.com/search?q=Germany+Population
 
 So it outputs all the combinations of each combination as stated before.
